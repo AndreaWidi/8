@@ -1,0 +1,4 @@
+MEM001,Silvia,100
+MEM002,Dea,50
+MEM003,Athallah,75
+MEM004,Assyarif,30
