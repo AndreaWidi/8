@@ -1,0 +1,4 @@
+BRG001,Sabun,Pembersih,25,5000
+BRG002,Roti, Makanan,7000
+BRG003,Teh Botol, Minuman,6000
+BRG004,Kapas Wajah,Kecantikan,15000
